@@ -23,3 +23,9 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code
 
+* git clone https://github.com/Astha224/campgrounds.git
+* cd campgrounds
+* npm install
+  
+Run mongod in another terminal and node app.js in the terminal with the project.
+* Then go to localhost:4000.
